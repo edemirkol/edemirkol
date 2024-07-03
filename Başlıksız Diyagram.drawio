@@ -1,49 +1,275 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T06:21:30.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" version="24.6.4" etag="K8k_7kpG6x7uXgyhvE2D" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T10:46:39.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="BqkL4rv8S1FWAZQzGg4B" version="24.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1223" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3249" dy="2562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="-77.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5" y="-70" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="CC0bLma-7pLYSbZLVnVD-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="-100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="-550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Seri No hangi standartlarda oluşmalı?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-55" y="-570" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="-100" y="-5" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Seri No Wi-Fi ıd ile entegre mi?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="110" y="-70" width="150" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="CC0bLma-7pLYSbZLVnVD-23" edge="1">
           <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
+            <mxPoint x="185" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-100" y="200" />
+              <mxPoint x="-320" y="200" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CC0bLma-7pLYSbZLVnVD-26" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
+          <mxGeometry x="-1" y="218" relative="1" as="geometry">
+            <mxPoint x="-210" y="158" as="offset" />
+            <Array as="points">
+              <mxPoint x="400" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Etiket oluşturalacak mı?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-150" y="60" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Fiziksel seri numarası etiket için oluşturulacak" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" y="160" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-8" value="T" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CC0bLma-7pLYSbZLVnVD-6" target="CC0bLma-7pLYSbZLVnVD-26">
+          <mxGeometry x="-0.7474" y="-12" relative="1" as="geometry">
+            <mxPoint x="480" y="-330" as="sourcePoint" />
+            <mxPoint x="360" y="-212.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="-329" />
+              <mxPoint x="80" y="-329" />
+              <mxPoint x="80" y="60" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CC0bLma-7pLYSbZLVnVD-6" target="WIyWlLk6GJQsqaUBKTNV-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="-327" />
+              <mxPoint x="730" y="50" />
+              <mxPoint x="260" y="50" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-15" value="F" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CC0bLma-7pLYSbZLVnVD-10">
+          <mxGeometry x="0.3629" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-6" value="Devre Kartına gömülü yazılım ile mi?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="-400" width="140" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-7" value="Seri No VS1-101-2401-0001-00050 Standartı ile devre kartına gömülecek" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="-377.5" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="-30" as="sourcePoint" />
+            <mxPoint x="520" y="-30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="-30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="224.5" as="sourcePoint" />
+            <mxPoint x="530" y="224.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="224.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CC0bLma-7pLYSbZLVnVD-22" target="CC0bLma-7pLYSbZLVnVD-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-22" value="soyut seri numarası oluşturulacak" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="531" y="160" width="150" height="142.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-23" value="Direkt Wi-fi ıd ile oluışturulan seri numarası netsis üzerinden takip edilecek." style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-390" y="40" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="CC0bLma-7pLYSbZLVnVD-26">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="-100" y="140" as="sourcePoint" />
+            <mxPoint x="390" y="150" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-26" value="Baskısı montaj ile beraber mi yapıalcak?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="60" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-28" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CC0bLma-7pLYSbZLVnVD-65">
+          <mxGeometry x="-1" y="121" relative="1" as="geometry">
+            <mxPoint x="61" y="105" as="offset" />
+            <mxPoint x="210" y="140" as="sourcePoint" />
+            <mxPoint x="400" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="140" />
+              <mxPoint x="400" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CC0bLma-7pLYSbZLVnVD-26" target="CC0bLma-7pLYSbZLVnVD-39">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="90" y="280" as="sourcePoint" />
+            <mxPoint x="190" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="125" y="390" />
+              <mxPoint x="125" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-32" value="Soyut seri numarası fiziksel seri numarasına sistem üzerinden entegre edilecek" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="191.25" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-36" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;AÇIKLAMA&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center;&quot;&gt;Fiziksel ve soyut iki seri numarası olmalı,&lt;/span&gt;&lt;div style=&quot;font-size: 12px; font-weight: 400; text-align: center;&quot;&gt;Birincisi müşteri talepleri için gerekli olan, ikincisi devre kartına entegre Wi-fi kompanentinin ıd numarası ile oluşturulan&lt;/div&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="320" width="180" height="213.75" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-37" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center;&quot;&gt;Baskının dışarıda yapılması İki seri numarası ihtiyacı doğuruyor,&amp;nbsp; Wi-fi ıd sayesinde karta gömülü bir benzersiz ıd olması takip ve ek seri numarası yazılımı gömme külfiyatından bizi kurtarmış oluyor&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="710" y="506.25" width="180" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CC0bLma-7pLYSbZLVnVD-39" target="CC0bLma-7pLYSbZLVnVD-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-39" value="Etiket Wi-fi ıd ile oluşturulan seri no ile basılacak" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="65" y="551.25" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CC0bLma-7pLYSbZLVnVD-40" target="CC0bLma-7pLYSbZLVnVD-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-40" value="Seri no ve üretim tarihi netsise entegre olarak&amp;nbsp; girilecek" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="551.25" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-43" value="Süreç takibi veri girişi ile başlamış olacak" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="551.25" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-45" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AÇIKLAMA&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-weight: 400; text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Fiziksel seri numarası ıd ile entegre haliyle hazırlanacak ve tüm süreç takipleri tek seri numarası üzerinden yapılacak&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="200" width="150" height="173.75" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CC0bLma-7pLYSbZLVnVD-49" target="CC0bLma-7pLYSbZLVnVD-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-49" value="Wi-fi Id ile" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="85" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CC0bLma-7pLYSbZLVnVD-50" target="CC0bLma-7pLYSbZLVnVD-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-50" value="VS1 Standartı ile oluşan seri no ile etiket basılacak" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="225" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-52" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Yes&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="476.88" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-53" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;No&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="175" y="390" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CC0bLma-7pLYSbZLVnVD-54" target="CC0bLma-7pLYSbZLVnVD-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-54" value="Seri no ve üretim tarihi netsise entegre olarak&amp;nbsp; girilecek" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="345" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-55" value="Süreç takibi veri girişi ile başlamış olacak" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="535" y="345" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CC0bLma-7pLYSbZLVnVD-58" target="CC0bLma-7pLYSbZLVnVD-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="93" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="285" y="90" />
+              <mxPoint x="525" y="90" />
+              <mxPoint x="525" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-58" value="Wi-fi Id ile" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CC0bLma-7pLYSbZLVnVD-61" target="CC0bLma-7pLYSbZLVnVD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-61" value="Etiket VS1 Standartıyla basılacak" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="546" y="55" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-64" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;No&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="295" y="60" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CC0bLma-7pLYSbZLVnVD-58" target="CC0bLma-7pLYSbZLVnVD-65">
+          <mxGeometry x="-1" y="121" relative="1" as="geometry">
+            <mxPoint x="61" y="105" as="offset" />
+            <mxPoint x="325" y="140" as="sourcePoint" />
+            <mxPoint x="400" y="160" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-65" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Yes&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="120" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-67" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Yes&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="125" y="240" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-68" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;No&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="110" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-73" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Yes&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="-360" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-74" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;No&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="740" y="-190" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-75" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="CC0bLma-7pLYSbZLVnVD-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="-50" as="sourcePoint" />
+            <mxPoint x="410" y="-100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="60" />
+              <mxPoint x="280" />
+              <mxPoint x="600" />
+              <mxPoint x="830" />
+              <mxPoint x="830" y="-120" />
+              <mxPoint x="830" y="-230" />
+              <mxPoint x="830" y="-327" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-76" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AÇIKLAMA&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center;&quot;&gt;Devre kartı hasarı ihtimaline karşı seri numarası etiketi gerekli ve aynı zamanda veri kaybı oluşmasında takip aksaması oluşabilir&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="740" y="6.25" width="150" height="173.75" as="geometry" />
+        </mxCell>
+        <mxCell id="CC0bLma-7pLYSbZLVnVD-77" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AÇIKLAMA&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center;&quot;&gt;İzlenecek bu yol üretim ve montaj sürelerine ilave zaman kaybı olarak yansıyacaktır&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="-270" width="150" height="173.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
